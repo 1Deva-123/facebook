@@ -1,1 +1,2 @@
 Hello friends this is my first java program!
+This is the second line for the practice
