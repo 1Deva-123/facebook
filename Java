@@ -1,2 +1,3 @@
 Hello friends this is my first java program!
 This is the second line for the practice
+by using the Java we can develop n number of applications in this society
